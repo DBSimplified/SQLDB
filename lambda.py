@@ -8,7 +8,7 @@ def lambda_handler(event, context):
 		MaxSize=1,
 		DesiredCapacity=1,
 		AvailabilityZones=[
-			'ap-northeast-1a',
+			'ap-northeast-1b',
 		]
 )
     
